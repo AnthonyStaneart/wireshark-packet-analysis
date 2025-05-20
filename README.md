@@ -75,13 +75,6 @@ These skills are essential for threat hunting, incident response, and security m
 * **Forensics Mindset**: Practiced thinking like an analyst—"what's normal vs suspicious"
 * **Communication**: Documented findings in clear, structured format suitable for SOC reports
 
-## Screenshots (Not included here)
-
-* TCP three-way handshake
-* Malicious payload in HTTP stream
-* Endpoints summary showing beacon IP
-* Exported malware sample (with VirusTotal link)
-
 ---
 
 This project illustrates how packet-level analysis supports cybersecurity operations. From detection to forensics, Wireshark provides visibility into the raw truth of network behavior. Proficiency in this tool is essential for any SOC analyst, threat hunter, or incident responder.
